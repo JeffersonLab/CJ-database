@@ -1,11 +1,11 @@
 __HERMES proton and deuteron F2 and reduced cross section; sigma(d)/sigma(p) ratio data__
 
 * Data files: 
-  * F2    proton   : [xlsx](../format/10007.xlsx), [csv](../csv/10007.csv)     
-  * F2    deuteron : [xlsx](../format/10008.xlsx), [csv](../csv/10008.csv) 
-  * sig_r proton   : [xlsx](../format/10005.xlsx), [csv](../csv/10005.csv)
-  * sig_r deuteron : [xlsx](../format/10006.xlsx), [csv](../csv/10006.csv)  
-  * sigma d/p      : [xlsx](../format/10009.xlsx), [csv](../csv/10009.csv)
+  * F2    proton   : [xlsx](../data/JAM/10007.xlsx), [csv](../data/JAM/csv/10007.csv)     
+  * F2    deuteron : [xlsx](../data/JAM/10008.xlsx), [csv](../data/JAM/csv/10008.csv) 
+  * sig_r proton   : [xlsx](../data/JAM/10005.xlsx), [csv](../data/JAM/csv/10005.csv)
+  * sig_r deuteron : [xlsx](../data/JAM/10006.xlsx), [csv](../data/JAM/csv/10006.csv)  
+  * sigma d/p      : [xlsx](../data/JAM/10009.xlsx), [csv](../data/JAM/csv/10009.csv)
   
 * Log:
   * @aaccardi (Oct 2017) -- initial data entry, converted from CJ database

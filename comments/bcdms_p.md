@@ -1,8 +1,8 @@
 __BCDMS proton and deuteron F2 structure functions and reduced cross section__
 
 * Data files: 
-  * xlsx: [proton](../format/10016.xlsx), [deuteron](../format/10017.xlsx)
-  * csv : [proton](../csv/10016.csv), [deuteron](../csv/10017.csv)
+  * xlsx: [proton](../data/JAM/10016.xlsx), [deuteron](../data/JAM/10017.xlsx)
+  * csv : [proton](../data/JAM/csv/10016.csv), [deuteron](../data/JAM/csv/10017.csv)
 
 * Source: CJ database
 

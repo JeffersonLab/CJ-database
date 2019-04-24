@@ -2,8 +2,8 @@
 * The L/T separation was done separately in each bin of x under the assumpthion that R is independent of Q2 in the kinematic range. (see the reference).
 
 ## Data files: 
-  * xlsx: [proton](../format/10069.xlsx), [Deuteron](../format/10070.xlsx)
-  * csv : [proton](../csv/10069.csv), [Deuteron](../csv/10070.csv)
+  * xlsx: [proton](../data/JAM/10069.xlsx), [Deuteron](../data/JAM/10070.xlsx)
+  * csv : [proton](../data/JAM/csv/10069.csv), [Deuteron](../data/JAM/csv/10070.csv)
 
 ## References:
 1. Phys.Lett. B237 (1990) 599-604 (1990)

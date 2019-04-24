@@ -23,7 +23,7 @@ A           = data is available but not collected
 |                | d/p:[10021][nmc_dp]       | d/p (*):[10021][nmc_dp] |            |
 |BCDMS           | p: [10018][bcdms_sp]       | p: [10016][bcdms_p]     | p: [10069][bcdms_rp] |
 |                | d: [10019][bcdms_sd]       | d: [10017][bcdms_d]     | d: [10070][bcdms_rd] |
-|JLab E06-009          | d: [10042][e06009_sd] | d: [10041][e06009_d]  |            |
+|JLab E06-009          | d: [10042][e06009_sd] | d: [10041][e06009_d]  |  d: [10071][e06009_d]          |
 |JLab E02-109 [**][e02109]| || 
 |JLab E94-110          | p: [10044][e94110_sp] | p: [10043][e94110_p]  |            |
 |[JLab E03-103][e03103]| p:10047               |p:10045                |            |
