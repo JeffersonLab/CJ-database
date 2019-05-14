@@ -19,7 +19,7 @@ __HERMES proton and deuteron F2 and reduced cross section; sigma(d)/sigma(p) rat
      * [sigma(d/p) ratio](http://www-hermes.desy.de/cgi-bin2/serve-data.cgi?FILE=../pub/TRANS/F2-11.dat&S=final&B=F2)
 
 * Ref:
-  * A. Airapetian et al., [JHEP 05 (2011) 126](https://inspirehep.net/record/684005/)
+  * A. Airapetian et al., [JHEP 05 (2011) 126](https://link.springer.com/article/10.1007/JHEP05(2011)126)
 
 * normalisation error: 
   * 7.6% : proton
