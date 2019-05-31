@@ -31,10 +31,10 @@ A           = data is available but not collected
 |JLab E99-118               | p:[10052][e99118_sp]       | p:[10049][e99118_p]       | p:   A                 |
 |                           | d:[10053][e99118_sd]       | d:[10050][e99118_d]       | p-d: A                 |
 |                           | d/p:[10054][e99118_sdp]    | d/p:[10051][e99118_dp]    |                        |
-|JLab JLCEE96               | p: [10055][ioana_sp]       |                           |                        |
-|                           | d: [10056][ioana_sd]       |                           |                        |
-|JLab E00-116               | p: [10003][e00116_sp]      | p: [10001][e00116_p]      |                        |
-|                           | d: [10004][e00116_sd]      | p: [10002][e00116_d]      |                        |
+|JLab JLCEE96               | p: [10055][ioana_sp]       | p: [10072][ioana_p]       |                        |
+|                           | d: [10056][ioana_sd]       | d: [10073][ioana_d]       |                        |
+|[JLab E00-116][e00116]     | p: [10003]                 | p: [10001]                |                        |
+|                           | d: [10004]                 | p: [10002]                |                        |
 |CLAS6                      | p: [10059][clas_sp]        | p: [10057][clas_p]        |                        |
 |                           | d: [10060][clas_sd]        | d: [10058][clas_d]        |                        |
 |BONUS                      |                            | n: [10061][bonus_n]       |                        |
@@ -78,6 +78,8 @@ A           = data is available but not collected
 [e94110_p]:comments/e94110_p.md
 [ioana_sp]:comments/ioana_sd.md
 [ioana_sd]:comments/ioana_sd.md
+[ioana_p]:comments/ioana_d.md
+[ioana_d]:comments/ioana_d.md
 [e99118_p]:comments/e99118_p.md
 [e99118_d]:comments/e99118_p.md
 [e99118_dp]:comments/e99118_p.md
@@ -86,10 +88,7 @@ A           = data is available but not collected
 [e99118_sdp]:comments/e99118_sdp.md
 [bonus_n]:comments/bonus_n.md
 [slac101_d]:comments/slac101_d.md
-[e00116_p]:comments/jl00106.md
-[e00116_d]:comments/jl00106.md
-[e00116_sp]:comments/jl00106.md
-[e00116_sd]:comments/jl00106.md
+[e00116]:comments/e00116.md
 [hermes]:comments/HERMES_DIS.md
 [hera]:comments/HERA2.md
 [bcdms_p]:comments/bcdms_p.md

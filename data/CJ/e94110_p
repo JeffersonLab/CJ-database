@@ -1,6 +1,6 @@
 e94110,F2,p target
 converted from 10043.xlsx
-*
+total uncertainty (stat and syst) is provided in column sys_tot. 
  0.0190  0
 x     Q2        F2  Ebeam  stat   sys_tot  dummy  dummy
 0.790805  1.297  0.007602    0.0   0.0  0.001751    0.0    0.0
