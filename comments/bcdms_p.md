@@ -5,8 +5,8 @@
   * F2    deuteron : [xlsx](../data/JAM/10017.xlsx), [csv](../data/JAM/csv/10017.csv)   
 
 ## Source: CJ database
-  *F2 is a combination of cross sections at 4 different energies, assuming R=Q_QCD, with the letter explained in the published paper.
-  *The experiment also provided data directly measured for R, and F2 calculated at R=0. This is used as the reduced cross section:  sig_r = F2(R=0)
+  * F2 is a combination of cross sections at 4 different energies, assuming R=Q_QCD, with the letter explained in the published paper.
+  * The experiment also provided data directly measured for R, and F2 calculated at R=0. This is used as the reduced cross section:  sig_r = F2(R=0)
 
 
 ## References:
