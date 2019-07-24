@@ -1,7 +1,7 @@
 nmc,sig,dp target
 converted from 10021.xlsx
 *
- 0.0000  5
+ 0.0025  5
 x     Q2      F2  Ebeam    stat   sys_tot  sys_u  dvx  dsm  drc   de  dep
 0.0015   0.16  0.9815    0.0  0.0203  0.010841    0.0  0.1  0.0  1.1  0.0  0.0
 0.0015   0.25  1.0030    0.0  0.0212  0.013154    0.0  0.1  0.0  1.3  0.1  0.1
