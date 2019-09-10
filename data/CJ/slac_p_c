@@ -1,6 +1,6 @@
 slac,F2,p target
 converted from 10010.xlsx
-*
+total uncertainty (stat and syst) is provided in column sys_tot. 
  0.0210  13
 x      Q2       F2   Ebeam  stat   sys_tot     sys_u   dsy  dse  drc  dn1  1dn2  2dn2  3dn2  4dn2  5dn2  6dn2  7dn2  8dn2  dfsz
 0.274   0.904  0.30016  10.027   0.0  0.007998  0.006904   0.7 -0.3  0.5  0.5   0.3   0.0   0.0   0.0   0.0   0.0   0.0   0.0   0.0

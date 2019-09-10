@@ -1,6 +1,6 @@
 clas6,sig_r,p target
 converted from 10059.xlsx
-*
+total uncertainty (stat and syst) is provided in column sys_tot. 
  0.0100  1
 x     Q2        F2  Ebeam  stat   sys_tot     sys_u        sys
 0.1315  0.225  0.277619  1.515   0.0  0.013308  0.013295   0.205818

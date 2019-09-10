@@ -1,6 +1,6 @@
 nmc,sig_r,p target
 converted from 10022.xlsx
-*
+total uncertainty (stat and syst) is provided in column sys_tot. 
  0.0250  11
 x     Q2        F2  Ebeam  stat   sys_tot     sys_u  de1  de2  de3  de4  dep1  dep2  dep3  dep4   dac  drc  dre
 0.0078   0.80  0.247600     90   0.0  0.007866  0.003095  0.5  0.0  0.0  0.0  -0.1   0.0   0.0   0.0   2.3  1.7  0.3
