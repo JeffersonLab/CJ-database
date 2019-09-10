@@ -1,4 +1,7 @@
 # SLAC Proton and Deuteron F2 (reanalyzed)
+## Data files: 
+  * F2  proton     : [xlsx](../data/JAM/10010.xlsx), [csv](../data/JAM/csv/10010.csv)   
+  * F2  deuteron   : [xlsx](../data/JAM/10011.xlsx), [csv](../data/JAM/csv/10011.csv)   
 
 ## Reference:  
 L.W.Whitlow, SLAC-Report-357, Ph.D. Thesis, Stanford University, March 1990.     
@@ -41,7 +44,7 @@ where
 For x<.1 or Q¢2<1GeV, this uncertainty is increased by a factor of 1.5.  When propagated within or between experiments, assume perfectly correlated.           
 
 **dFN1**: 
-fractional statistical uncertainty in F_2 due to the relative normalization uncertainties of the experiments. This is the same as the dN1 uncertainty in the measured cross sectionsWhen propagated within an experiment, assume perfectly correlated. When propagated between experiments, assume uncorrelated although they are distinctly, positively correlated as indicated in Table 5.4 of Reference. [This uncertainty reflects possible statistical errors in our global normalization       procedure.]      
+fractional statistical uncertainty in F_2 due to the relative normalization uncertainties of the experiments. This is the same as the dN1 uncertainty in the measured cross sectionsWhen propagated within an experiment, assume perfectly correlated. When propagated between experiments, assume uncorrelated although they are distinctly, positively correlated as indicated in Table 5.4 of Reference. [This uncertainty reflects possible statistical errors in our global normalization procedure.]      
 
 **dFN2**: 
 fractional systematic uncertainty in F_2 due to the relative normalizations of the experiments. This is the same as the dN2 uncertainty in the measured cross sections of Files E.2 and E.3, and so, the columns are labeled with both. When propagated within an experiment, assume perfectly correlated When propagated between experiments, assume uncorrelated. [This uncertainty reflects possible systematic errors in our global normalization procedure.]      

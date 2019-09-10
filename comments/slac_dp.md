@@ -2,6 +2,9 @@
 
 (The original data was presented as F2 ratio with the assumption Rd=Rp. So it is actually cross section ratio) 
 
+## Data files: 
+  * sigr (F2) d/p    : [xlsx](../data/JAM/10034.xlsx), [csv](../data/JAM/csv/10034.csv)   
+
 ## Reference:  
 L.W.Whitlow, SLAC-Report-357, Ph.D. Thesis, Stanford University, March 1990.  
 
@@ -28,22 +31,32 @@ propagational properties of the errors dFSR, dFNM1, and dFNM2.
                                                                                 
                                                                                 
 I       = running counting index provided for convenience and                   
-          correspondence.                                                       
+          correspondence.                       
+
 J       = experiment number, as ordered in Table 1.1 of Reference:              
           (1=E49a,2=E49b,3=E61,4=E87,5=E89a,6=E89b)                             
-          Note that there are no hydrogen data from E139 and E140.              
-x       = Bjorken scaling variable.                                             
-Q¢2     = 4-momentum transfer squared (GeV¢2).                                  
+          Note that there are no hydrogen data from E139 and E140.   
+
+x       = Bjorken scaling variable.
+
+Q¢2     = 4-momentum transfer squared (GeV¢2).   
+
 F2d/F2p = final extracted structure function ratio.  Units are [per             
-          nucleon] for deuterium, and so, ratios are typically < 1.             
-dST     = fractional statistical counting uncertainty in F_2 ratios.            
-dSR     = fractional random systematic uncertainty in F_2 ratios.               
+          nucleon] for deuterium, and so, ratios are typically < 1. 
+
+dST     = fractional statistical counting uncertainty in F_2 ratios. 
+
+dSR     = fractional random systematic uncertainty in F_2 ratios. 
+
 dN1     = fractional statistical uncertainty in F_2 ratios due to the           
-          relative normalizations of the experiments.                           
+          relative normalizations of the experiments.           
+
 dN2     = fractional systematic uncertainty in F_2 due to the relative          
-          normalizations of the experiments.                                    
+          normalizations of the experiments.    
+
 stat    = total fractional random error, uncorrelated point to point.           
-          stat=sqrt(dST¢2+dSR¢2).                                               
+          stat=sqrt(dST¢2+dSR¢2).      
+                                                   
 syst    = total fractional experimental systematic error, correlated            
           between neighboring points.  syst=sqrt(dN1¢2+dN2¢2).                  
                                                                                 

@@ -1,4 +1,4 @@
-# Jlab JLCEE96 Experiment Proton and Deuterium(per-nucleon) Reduced Cross Section.
+# Jlab JLCEE96 Experiment Proton and Deuteron(per-nucleon) Reduced Cross Section.
 
 * Data files: 
   * sig_r    proton   : [xlsx](../data/JAM/10055.xlsx), [csv](../data/JAM/csv/10055.csv)   
@@ -6,13 +6,13 @@
 
 ## Reference: 
 
-Ioana's thesis: https://misportal.jlab.org/ul/publications/view_pub.cfm?pub_id=5397
+Maria Ioana Niculescu's thesis: https://misportal.jlab.org/ul/publications/view_pub.cfm?pub_id=5397
 
 ## Source file: 
 
-D2: https://hallcweb.jlab.org/resdata/database/jlabd2.txt (TOTAL dueteron cross section, not per-nucleon)
+Deuteron: https://hallcweb.jlab.org/resdata/database/jlabd2.txt (dueteron cross section, not per-nucleon)
 
-H2: https://hallcweb.jlab.org/resdata/database/jlabh2.txt
+Proton: https://hallcweb.jlab.org/resdata/database/jlabh2.txt
 
 
 ## Uncertainty:

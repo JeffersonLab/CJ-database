@@ -1,7 +1,7 @@
-# F2 proton and Deuteron from CLAS6
+# Proton and Deuteron F2 and Reduced Cross Sections from CLAS6
 
 ## Reference:
-*1. Deuterium: Phys.Rev.C73:045205,2006,
+*Deuterium: Phys.Rev.C73:045205,2006,
 *Proton
     *2. Data table    : CLAS-NOTE 2003-001, 2005-013. 
     *3. uncertainties : Table I in Phys. Rev. D 67, 092001
@@ -11,8 +11,10 @@ Emails from Mikhail Osipenko.
 
 
 ## Data files: 
-  * F2    proton   : [xlsx](../data/JAM/10057.xlsx), [csv](../data/JAM/csv/10057.csv)   
-  * F2    deuteron : [xlsx](../data/JAM/10058.xlsx), [csv](../data/JAM/csv/10058.csv)   
+  * F2      proton   : [xlsx](../data/JAM/10057.xlsx), [csv](../data/JAM/csv/10057.csv)   
+  * F2      deuteron : [xlsx](../data/JAM/10058.xlsx), [csv](../data/JAM/csv/10058.csv)   
+  * sig_r   proton   : [xlsx](../data/JAM/10059.xlsx), [csv](../data/JAM/csv/10059.csv)   
+  * sig_r   deuteron : [xlsx](../data/JAM/10060.xlsx), [csv](../data/JAM/csv/10060.csv)   
 
 
 ## Uncertainties:
