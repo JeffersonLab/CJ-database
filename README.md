@@ -1,7 +1,8 @@
 # Progress 
 
-* See the [note][note] for reduced cross section and F2 calculation
+* See the [note][note] for reduced cross section and F2 calculation.
 * All data are __per-nucleon__.
+* Data format is explained on the [wikipage](https://github.com/JeffersonLab/CJ-database/wiki).
 
 **Notes**
 ( __*__ ) The actual measurement was d/p cross section ratios. F2 d/p was extracted by the experiment under the assumption Rp=Rd.
