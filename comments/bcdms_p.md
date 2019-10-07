@@ -13,9 +13,9 @@
   * The experiment also provided F2 calculated with R=0. This is used as the reduced cross section:  sig_r = F2(R=0)
 
 ## References:
-  * Proton F2 and R: [Paper](https://inspirehep.net/record/276661?ln=en)
+  * Proton F2 and R: Phys.Lett. B223 (1989) 485-489， [Paper](https://inspirehep.net/record/276661?ln=en)
   and [CERN report](http://cds.cern.ch/record/185732/files/cer-000097167.pdf) 
-  * Deuteron F2 and R: [Paper](https://inspirehep.net/record/285497?ln=en)
+  * Deuteron F2 and R:Phys.Lett. B237 (1990) 592-598， [Paper](https://inspirehep.net/record/285497?ln=en)
   and [CERN report](http://cds.cern.ch/record/203765/files/199001439.pdf)
   
 
