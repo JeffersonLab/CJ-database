@@ -1,4 +1,4 @@
-# HERMES proton and deuteron F2 and reduced cross section; sigma(d)/sigma(p) ratio data__
+# HERMES proton and deuteron F2 and reduced cross section, sigma(d)/sigma(p) ratio data
 
 ## Data files: 
   * F2    proton   : [xlsx](../data/JAM/10007.xlsx), [csv](../data/JAM/csv/10007.csv)     
