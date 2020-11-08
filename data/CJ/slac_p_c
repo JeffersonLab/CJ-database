@@ -664,5 +664,3 @@ x      Q2       F2   Ebeam      stat   sys_tot     sys_u   dsy  dse  drc  dn1  1
 0.343   9.980  0.24185    19.5  0.003144  0.005949  0.003144   0.5 -0.4  0.3  0.3   0.0   0.0   0.0   0.0   0.0   0.4   0.0   0.0   1.9
 0.257   7.880  0.29877    19.5  0.004183  0.007670  0.003585   0.5 -0.5  0.2  0.2   0.0   0.0   0.0   0.0   0.0   0.4   0.0   0.0   2.1
 0.171   5.548  0.32097    19.5  0.008666  0.009751  0.003852   0.9 -0.7  0.2  0.2   0.0   0.0   0.0   0.0   0.0   0.4   0.0   0.0   2.5
-  NaN     NaN      NaN     NaN       NaN       NaN       NaN   NaN  NaN  NaN  NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
-  NaN     NaN      NaN    file       NaN       NaN       NaN   NaN  NaN  NaN  NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
