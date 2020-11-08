@@ -1,10 +1,12 @@
 # Proton and Deuteron F2 and Reduced Cross Sections from CLAS6
 
 ## Reference:
-*Deuterium: Phys.Rev.C73:045205,2006,
-*Proton
-    *2. Data table    : CLAS-NOTE 2003-001, 2005-013. 
-    *3. uncertainties : Table I in Phys. Rev. D 67, 092001
+* Proton
+    * Data table    : CLAS-NOTE [2003-001](https://arxiv.org/abs/hep-ex/0309052)
+    * uncertainties : Table I in Phys. Rev. D 67, 092001
+* Deuterium:  
+   * Phys.Rev. C73 (2006) 045205
+   * CLAS-NOTE [2005-013](https://arxiv.org/abs/hep-ex/0507098v2). 
 
 ## Source: 
 Emails from Mikhail Osipenko.
