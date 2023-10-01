@@ -1,14 +1,17 @@
-# Progress 
+# CJ Unpolarized DIS Database
+World __proton__ and __deuteron__ data of unploarized cross sections, structure function F2, and the longitudinal to transverse cross section ratio R are collected or extracted from various experiments. Data were collected for the CJ global fit and related analysis. Now open for general use. 
 
-* See the [note][note] for reduced cross section and F2 calculation.
-* All data are __per-nucleon__.
-* Data format is explained on the [wikipage](https://github.com/JeffersonLab/CJ-database/wiki).
+__Reference__: appendix A in xxx. See also [note][note] for reduced cross section and F2 calculation.
+
+Also available: combined sets of normalized and rebinned F2p and F2d world data, as well as the extracted F2n and F2n/F2p with CJ15 analysis from xxx. 
+
+## Data table
+Each set is provided in both plain text and xlsx/csv format. Filenames and their ID (100xx) in database are listed on the table below. Click on the names for details. Data format is explained on the [wikipage](https://github.com/JeffersonLab/CJ-database/wiki).
 
 **Notes**
-
+* All data are __per-nucleon__.
 * __(\*)__ = The actual measurement was d/p cross section ratios. F2 d/p was extracted by the experiment under the assumption Rp=Rd.
 * __(A)__ = The data is available but not yet collected
-* 10001-10070 = data ID in JAM databsae
 
 |Experiment                 | &sigma;<sub>r</sub>        |  F2                       |   R                    |
 | :--:                      | :--:                       | :--:                      | :--:                   | 
@@ -28,6 +31,7 @@
 |JLab E06-009               | d: [10042][e06009_sd]      | d: [10041][e06009_d]      | d: [10071][e06009_d]   |
 |(includes E04-001, E02-109)|                            |                           |                        |
 |JLab E94-110               | p: [10044][e94110_sp]      | p: [10043][e94110_p]      | p: [10074][e94110_rp]  |
+|JLab E12-10-002            |                            | d/p:[10075][e1210002_dp]  |                        |
 |[JLab E03-103][e03103]     | p:10047                    | p:10045                   |                        |
 |                           | d:10048                    | d:10046                   |                        |
 |JLab E99-118               | p:[10052][e99118_sp]       | p:[10049][e99118_p]       | p:   __(A)__           |
@@ -47,7 +51,6 @@
 |                           | d/p: 10009                 |                           |                        |
 |E665                       |                            | p: [10062][e665_p]        |                        |
 |                           |                            | d: [10063][e665_d]        |                        |
-
 
 [note]:src/cj-notes.pdf
 [slac_sp]:comments/slac_sp.md
@@ -109,3 +112,5 @@
 [e665_p]: comments/e665_p.md
 [e665_d]: comments/e665_p.md
 [bonus_nd]: comments/bonus_nd.md
+
+** This database is maintained by Alberto Accardi (accardi at jlab org) and Shujie Li (shujieli at lbl gov). Please help us improve (e.g. request a bug fix or adding new data) by sumitting a github issue.

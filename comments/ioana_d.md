@@ -10,7 +10,7 @@ Maria Ioana Niculescu's thesis: https://misportal.jlab.org/ul/publications/view_
 
 ## Source files: 
 
-h2_ioana_98_f2.txt and d2_ioana_98_f2.txt from Ioana's email.
+h2_ioana_98_f2.txt and d2_ioana_98_f2.txt from Ioana Niculescu (private communication).
 
 ## Uncertainty:
 *__stat_u__:The source file listed only the statistical uncertainty. 
