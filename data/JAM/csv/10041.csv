@@ -1,4 +1,4 @@
-,W2,exp,Q2,x,nu,obs,target,curent,lepton beam,units,value,F2stat_u,F2angle_c,F2rad_c,F2charge_c,*%norm_c
+,W2,exp,Q2,x,nu,obs,target,lepton beam,current,units,value,F2stat_u,F2angle_c,F2rad_c,F2charge_c,*%norm_c
 0,0.71,e06009,2,1.0931,0.97501,F2,d,e,NC,1,0.0189455,0.00128125,0.0,0.0,0.0,1.6
 1,0.75,e06009,2,1.0697,0.99632,F2,d,e,NC,1,0.027941,0.00131605,0.0,0.0,0.0,1.6
 2,0.79,e06009,2,1.0473,1.0176,F2,d,e,NC,1,0.0427555,0.00100595,0.0009081,5.5585e-05,4.9483e-07,1.6

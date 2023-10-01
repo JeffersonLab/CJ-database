@@ -1,4 +1,4 @@
-,exp,Elab,EP,Theta,target,current,lepton beam,units,obs,x,Q2,W2,Epsilon,Sigma(nb/Ser*Gev),%*stat_u,%*syst_u,%*norm_c,*y,*value
+,exp,Elab,EP,Theta,target,lepton beam,current,units,obs,x,Q2,W2,Epsilon,Sigma(nb/Ser*Gev),%*stat_u,%*syst_u,%*norm_c,*y,*value
 0,jlcee96,2.445,0.705,20.0,d,e,nc,1,sig_r,0.064,0.208,3.936,0.508,315.0,1.12,2.83,1.26,0.711656442,0.151
 1,jlcee96,2.445,0.715,20.0,d,e,nc,1,sig_r,0.065,0.211,3.915,0.514,308.0,1.15,2.83,1.26,0.707566462,0.148
 2,jlcee96,2.445,0.725,20.0,d,e,nc,1,sig_r,0.066,0.214,3.893,0.52,310.0,1.15,2.83,1.26,0.703476483,0.15
