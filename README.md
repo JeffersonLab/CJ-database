@@ -1,9 +1,13 @@
 # CJ Unpolarized DIS Database
-World __proton__ and __deuteron__ data of unploarized cross sections, structure function F2, and the longitudinal to transverse cross section ratio R are collected or extracted from various experiments. Data were collected for the CJ global fit and related analysis. Now open for general use. 
+World __proton__ and __deuteron__ data of unploarized DIS cross sections, F2 structure functions, and the longitudinal to transverse cross section ratio R are collected or extracted from various experiments. Data were collected for the CJ global fit and related analysis. Now open for general use. 
 
-__Reference__: appendix A in xxx. See also [note][note] for reduced cross section and F2 calculation.
+__Reference__: appendix A in [arXiv:2309.16851][https://arxiv.org/abs/2309.16851]. See also [note][note] for reduced cross section and F2 calculation.
 
-Also available: combined sets of normalized and rebinned F2p and F2d world data, as well as the extracted F2n and F2n/F2p with CJ15 analysis from xxx. 
+Also available: combined sets of normalized F2p and F2d world data, as well as the extracted F2n (from p and d data) and F2n/F2p (from d/p data) with CJ15 analysis (see arXiv:2309.16851). Each table gives F2 in rebinned and original Q2.
+[F2 p][data/rebin_p.xlsx]
+[F2 d][data/rebin_d.xlsx]
+[F2 n][data/rebin_n.xlsx]
+[F2 n/p][data/f2np_all.xlsx]
 
 ## Data table
 Each set is provided in both plain text and xlsx/csv format. Filenames and their ID (100xx) in database are listed on the table below. Click on the names for details. Data format is explained on the [wikipage](https://github.com/JeffersonLab/CJ-database/wiki).
