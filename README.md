@@ -35,7 +35,6 @@ Each set is provided in both plain text and xlsx/csv format. Filenames and their
 |JLab E06-009               | d: [10042][e06009_sd]      | d: [10041][e06009_d]      | d: [10071][e06009_d]   |
 |(includes E04-001, E02-109)|                            |                           |                        |
 |JLab E94-110               | p: [10044][e94110_sp]      | p: [10043][e94110_p]      | p: [10074][e94110_rp]  |
-|JLab E12-10-002            |                            | d/p:[10075][e1210002_dp]  |                        |
 |[JLab E03-103][e03103]     | p:10047                    | p:10045                   |                        |
 |                           | d:10048                    | d:10046                   |                        |
 |JLab E99-118               | p:[10052][e99118_sp]       | p:[10049][e99118_p]       | p:   __(A)__           |
