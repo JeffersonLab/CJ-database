@@ -3,7 +3,7 @@
 (The original data was presented as F2 ratio with the assumption Rd=Rp. So it is actually cross section ratio) 
 
 ## Data files: 
-  * sigr (F2) d/p    : [xlsx](../data/JAM/10034.xlsx), [csv](../data/JAM/csv/10034.csv)   
+  * sigr (F2) d/p    : [xlsx](../data/dataframe/10034.xlsx), [csv](../data/dataframe/csv/10034.csv)   
 
 ## Reference:  
 L.W.Whitlow, SLAC-Report-357, Ph.D. Thesis, Stanford University, March 1990.  

@@ -2,8 +2,8 @@
 # SLAC Proton and Deuteron Per-nucleon Reduced Cross Section
 
 ## Data files: 
-  * sigr  proton     : [xlsx](../data/JAM/10014.xlsx), [csv](../data/JAM/csv/10014.csv)   
-  * sigr  deuteron   : [xlsx](../data/JAM/10015.xlsx), [csv](../data/JAM/csv/10015.csv)   
+  * sigr  proton     : [xlsx](../data/dataframe/10014.xlsx), [csv](../data/dataframe/csv/10014.csv)   
+  * sigr  deuteron   : [xlsx](../data/dataframe/10015.xlsx), [csv](../data/dataframe/csv/10015.csv)   
 
 ## Reference:  
 L.W.Whitlow, SLAC-Report-357, Ph.D. Thesis, Stanford University, March 1990.

@@ -1,7 +1,7 @@
 # SLAC Proton and Deuteron F2 (reanalyzed)
 ## Data files: 
-  * F2  proton     : [xlsx](../data/JAM/10010.xlsx), [csv](../data/JAM/csv/10010.csv)   
-  * F2  deuteron   : [xlsx](../data/JAM/10011.xlsx), [csv](../data/JAM/csv/10011.csv)   
+  * F2  proton     : [xlsx](../data/dataframe/10010.xlsx), [csv](../data/dataframe/csv/10010.csv)   
+  * F2  deuteron   : [xlsx](../data/dataframe/10011.xlsx), [csv](../data/dataframe/csv/10011.csv)   
 
 ## Reference:  
 L.W.Whitlow, SLAC-Report-357, Ph.D. Thesis, Stanford University, March 1990.     

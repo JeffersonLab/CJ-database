@@ -4,8 +4,8 @@
   Nucl.Phys. B483 (1997) 3-43（hep-ph/9610231）, table 3 and 4
 
 ## Data files: 
-  * F2  proton     : [xlsx](../data/JAM/10020.xlsx), [csv](../data/JAM/csv/10020.csv)   
-  * F2  deuteron   : [xlsx](../data/JAM/10039.xlsx), [csv](../data/JAM/csv/10039.csv)   
+  * F2  proton     : [xlsx](../data/dataframe/10020.xlsx), [csv](../data/dataframe/csv/10020.csv)   
+  * F2  deuteron   : [xlsx](../data/dataframe/10039.xlsx), [csv](../data/dataframe/csv/10039.csv)   
 
 ## Note on R: 
 

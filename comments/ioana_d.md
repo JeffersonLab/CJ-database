@@ -1,8 +1,8 @@
 # Jlab JLCEE96 Experiment Proton and Deuteron(per-nucleon) F2
 
 * Data files: 
-  * f2  proton   : [xlsx](../data/JAM/10072.xlsx), [csv](../data/JAM/csv/10072.csv)   
-  * f2  deuteron : [xlsx](../data/JAM/10073.xlsx), [csv](../data/JAM/csv/10073.csv)   
+  * f2  proton   : [xlsx](../data/dataframe/10072.xlsx), [csv](../data/dataframe/csv/10072.csv)   
+  * f2  deuteron : [xlsx](../data/dataframe/10073.xlsx), [csv](../data/dataframe/csv/10073.csv)   
 
 ## Reference: 
 

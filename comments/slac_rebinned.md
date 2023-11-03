@@ -2,8 +2,8 @@
 * same measurements as in table 10011,10012 but rebinned in xbj and Q2.
 #
 # Data files: 
-  * rebinned F2    proton     : [xlsx](../data/JAM/10012.xlsx), [csv](../data/JAM/csv/10012.csv)   
-  * rebinned F2    deuteron   : [xlsx](../data/JAM/10013.xlsx), [csv](../data/JAM/csv/10013.csv)   
+  * rebinned F2    proton     : [xlsx](../data/dataframe/10012.xlsx), [csv](../data/dataframe/csv/10012.csv)   
+  * rebinned F2    deuteron   : [xlsx](../data/dataframe/10013.xlsx), [csv](../data/dataframe/csv/10013.csv)   
 
 ## References:
   * L.W. Whitlow et al., PL B282, 475 (1992)

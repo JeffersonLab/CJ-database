@@ -2,7 +2,7 @@
 
 ## Data files: 
 
-*F2 neutron:[xlsx](../data/JAM/10061.xlsx), [csv](../data/JAM/csv/10061.csv)
+*F2 neutron:[xlsx](../data/dataframe/10061.xlsx), [csv](../data/dataframe/csv/10061.csv)
 
 ## Source: 
 https://userweb.jlab.org/~narbe/BoNuS/analysis/deut-fit/checks/tables/resnr/v1/

@@ -2,7 +2,7 @@
 * Cross section ratio with delta_R =0.
 
 ## Data files: 
-  * F2 (sigr) d/p    : [xlsx](../data/JAM/10021.xlsx), [csv](../data/JAM/csv/10021.csv)   
+  * F2 (sigr) d/p    : [xlsx](../data/dataframe/10021.xlsx), [csv](../data/dataframe/csv/10021.csv)   
 
 ## Reference: 
 Arneodo, M., Arvidson, A., Badełek, B., Ballintijn, M., Baum, G., Beaufays, J., … Zetsche, F. (1997). Accurate measurement of F2d/F2p and Rd − Rp. Nuclear Physics B, 487(1–2), 3–26. https://doi.org/10.1016/S0550-3213(96)00673-6

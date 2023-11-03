@@ -6,8 +6,8 @@ Nucl.Phys. B483 (1997) 3-43（hep-ph/9610231）, table 3 and 4
 * The cross section showed in Table 3 and 4 in ref are **NOT** corrected for higher order electroweak processes. The reduced cross section provided here are reconstructed from R and F2 in the same table.
 
 ## Data files: 
-  * sigr  proton     : [xlsx](../data/JAM/10022.xlsx), [csv](../data/JAM/csv/10022.csv)   
-  * sigr  deuteron   : [xlsx](../data/JAM/10040.xlsx), [csv](../data/JAM/csv/10040.csv)   
+  * sigr  proton     : [xlsx](../data/dataframe/10022.xlsx), [csv](../data/dataframe/csv/10022.csv)   
+  * sigr  deuteron   : [xlsx](../data/dataframe/10040.xlsx), [csv](../data/dataframe/csv/10040.csv)   
 
 ## Notes:
 *R=L/T: 
