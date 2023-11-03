@@ -20,7 +20,11 @@ Note that GitHub does not provide a preview of Excel files.  Please click the li
 
 
 ## World DIS data tables
-Each set is provided in both plain text (deprecated) and xlsx/csv format (under data/dataframe). Filenames and dataset ID (100xx) in database are listed on the table below. Click on the names for details. Data format is explained on the [wikipage](https://github.com/JeffersonLab/CJ-database/wiki).
+
+World DIS data for proton and deuteron F2 structure functions, in separate files for each experiment:
+* Filenames and dataset ID (100xx) in the database are listed on the table below. Click on the names for details. 
+* Each set is provided in both plain text (deprecated) and xlsx/csv format (under data/dataframe). 
+* The data format is explained on the [wikipage](https://github.com/JeffersonLab/CJ-database/wiki).
 
 **Notes**
 * All data are __per-nucleon__.
