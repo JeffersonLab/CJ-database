@@ -3,7 +3,7 @@ World __proton__ and __deuteron__ data of unploarized DIS cross sections, F2 str
 
 __Reference__: appendix A in [arXiv:2309.16851](https://arxiv.org/abs/2309.16851). See also [note][note] for reduced cross section and F2 calculation.
  
-Also available: combined sets of normalized F2p and F2d world data, as well as the extracted F2n (from p and d data) and F2n/F2p (from d/p and n/d data) with CJ15 analysis (see arXiv:2309.16851). Each file gives F2 in rebinned and original Q2. Please click the link below to download corresponding xlsx file (preview is not supported).
+Also available: combined sets of normalized F2p and F2d world data, as well as the extracted F2n (from p and d data) and F2n/F2p (from d/p and n/d data) with CJ15 analysis (see arXiv:2309.16851). Each file gives F2 in rebinned and original Q2. Please click the link below then the __View raw__ button to download corresponding xlsx file (preview is not supported).
 * [combined F2 p](data/dataframe/rebin_p.xlsx)
 * [combined F2 d](data/dataframe/rebin_d.xlsx)
 * [extracted F2 n](data/dataframe/rebin_n.xlsx)
