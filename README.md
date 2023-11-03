@@ -2,14 +2,19 @@
 World __proton__ and __deuteron__ data of unploarized DIS cross sections, F2 structure functions, and the longitudinal to transverse cross section ratio R are collected or extracted from various experiments. Data were collected for the CJ global fit and related analysis. Now open for general use. 
 
 __Reference__: appendix A in [arXiv:2309.16851](https://arxiv.org/abs/2309.16851). See also [note][note] for reduced cross section and F2 calculation.
- 
-Also available: combined sets of normalized F2p and F2d world data, as well as the extracted F2n (from p and d data) and F2n/F2p (from d/p and n/d data) with CJ15 analysis (see arXiv:2309.16851). Each file gives F2 in rebinned and original Q2. Please click the link below then the __View raw__ button to download corresponding xlsx file (preview is not supported).
-* [combined F2 p](data/dataframe/rebin_p.xlsx)
-* [combined F2 d](data/dataframe/rebin_d.xlsx)
+
+## Neutron F2
+Combined sets of cross-normalized F2p and F2d world data are used to extract __neutron F2__ with CJ15 analysis (see [arXiv:2309.16851](https://arxiv.org/abs/2309.16851)). F2n/F2p are extracted from d/p and n/d data in the same fashion. Each file gives F2 in rebinned and original Q2. 
+
+No preview available. Please click the link below then the __View raw__ button to download.
+
 * [extracted F2 n](data/dataframe/rebin_n.xlsx)
 * [extracted F2 n/p](data/dataframe/f2np_all.xlsx)
+* [combined F2 p](data/dataframe/rebin_p.xlsx)
+* [combined F2 d](data/dataframe/rebin_d.xlsx)
 
-## Data table
+
+## Experimental Data table
 Each set is provided in both plain text (deprecated) and xlsx/csv format (under data/dataframe). Filenames and dataset ID (100xx) in database are listed on the table below. Click on the names for details. Data format is explained on the [wikipage](https://github.com/JeffersonLab/CJ-database/wiki).
 
 **Notes**
