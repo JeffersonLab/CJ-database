@@ -3,18 +3,23 @@ World __proton__ and __deuteron__ data of unploarized DIS cross sections, F2 str
 
 __Reference__: appendix A in [arXiv:2309.16851](https://arxiv.org/abs/2309.16851). See also [note][note] for reduced cross section and F2 calculation.
 
-## Neutron F2
-Combined sets of cross-normalized F2p and F2d world data are used to extract __neutron F2__ with CJ15 analysis (see [arXiv:2309.16851](https://arxiv.org/abs/2309.16851)). F2n/F2p are extracted from d/p and n/d data in the same fashion. Each file gives F2 in rebinned and original Q2. 
+## Neutron F2 extraction
 
-No preview available. Please click the link below then the __View raw__ button to download.
+Results of the data-driven extraction of the __neutron F2__ and __neutron-to-proton F2n/F2p ratio__ within the CJ15 framework (see [arXiv:2309.16851](https://arxiv.org/abs/2309.16851) for details). The data is presented in Excel file, both in the original kineamtics, as well as rebinned in Q^2 as in the paper's figures. Data from all experiemnts are combined in a single file. 
 
 * [extracted F2 n](data/dataframe/rebin_n.xlsx)
 * [extracted F2 n/p](data/dataframe/f2np_all.xlsx)
+
+The neutron extraction necessitated of a careful cross-normalization of the world proton aand Deuterron structure functions. Here we provide Excel tables with the cross-normalized F2p and F2D structure functions, both in the original experimental kinematics, and rebinned in Q^2. 
+
 * [combined F2 p](data/dataframe/rebin_p.xlsx)
 * [combined F2 d](data/dataframe/rebin_d.xlsx)
 
+Note that GitHub does not provide a preview of Excel files.  Please click the link above, and then the __View raw__ button to download.
 
-## Experimental Data table
+
+
+## World DIS data tables
 Each set is provided in both plain text (deprecated) and xlsx/csv format (under data/dataframe). Filenames and dataset ID (100xx) in database are listed on the table below. Click on the names for details. Data format is explained on the [wikipage](https://github.com/JeffersonLab/CJ-database/wiki).
 
 **Notes**
