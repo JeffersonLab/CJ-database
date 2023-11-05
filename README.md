@@ -5,17 +5,22 @@ __Reference__: appendix A in [arXiv:2309.16851](https://arxiv.org/abs/2309.16851
 
 ## Neutron F2 extraction
 
-Results of the data-driven extraction of the __neutron F2__ and __neutron-to-proton F2n/F2p ratio__ within the CJ15 framework (see [arXiv:2309.16851](https://arxiv.org/abs/2309.16851) for details). The data is presented in Excel file, both in the original kineamtics, as well as rebinned in Q^2 as in the paper's figures. Data from all experiemnts are combined in a single file. 
+Results of the data-driven extraction of __neutron F2__ and __neutron-to-proton F2n/F2p ratio__ within the CJ15 framework (see eq. 7-9 in [arXiv:2309.16851](https://arxiv.org/abs/2309.16851) for details) are plotted below. Data from all experiemnts are combined in a single file and presented in Excel file, both in the original kineamtics, as well as rebinned in Q^2 as in the figures. 
 
+<img src="https://github.com/JeffersonLab/CJ-database/assets/20442471/e7335f02-67c9-438d-8f70-15d6347da621" width="500" height="400">
+<img src="https://github.com/JeffersonLab/CJ-database/assets/20442471/06c9a30a-07e5-427d-b347-626898fd8252" width="500" height="400">
+
+
+
+Note: GitHub does not provide a preview of xlsx files.  Please click the link below, and then the __View raw__ button to download.
 * [extracted F2 n](data/dataframe/rebin_n.xlsx)
 * [extracted F2 n/p](data/dataframe/f2np_all.xlsx)
 
-The neutron extraction necessitated of a careful cross-normalization of the world proton aand Deuterron structure functions. Here we provide Excel tables with the cross-normalized F2p and F2D structure functions, both in the original experimental kinematics, and rebinned in Q^2. 
+The neutron extraction necessitated of a careful cross-normalization and kinematic match of the world proton and Deuterron structure functions. Here we provide Excel tables with the cross-normalized F2p and F2d structure functions, both in the original experimental kinematics, and rebinned in Q^2. 
 
 * [combined F2 p](data/dataframe/rebin_p.xlsx)
 * [combined F2 d](data/dataframe/rebin_d.xlsx)
 
-Note that GitHub does not provide a preview of Excel files.  Please click the link above, and then the __View raw__ button to download.
 
 
 
