@@ -1,138 +1,20 @@
-# CJ Unpolarized DIS Database
-World __proton__ and __deuteron__ data of unploarized DIS cross sections, F2 structure functions, and the longitudinal to transverse cross section ratio R are collected or extracted from various experiments. Data were collected for the CJ global fit and related analysis. Now open for general use. 
+# CJ Unpolarized DIS Database Homepage
 
-__Reference__: appendix A in [arXiv:2309.16851](https://arxiv.org/abs/2309.16851). See also [note][note] for reduced cross section and F2 calculation.
+__Reference__: [arXiv:2309.16851](https://arxiv.org/abs/2309.16851). 
 
-## Neutron F2 extraction
-
-Results of the data-driven extraction of __neutron F2__ and __neutron-to-proton F2n/F2p ratio__ within the CJ15 framework (see eq. 7-9 in [arXiv:2309.16851](https://arxiv.org/abs/2309.16851) for details) are plotted below. Data from all experiemnts are combined in a single file and presented in Excel file, both in the original kineamtics, as well as rebinned in Q^2 as in the figures. 
-
-<img src="https://github.com/JeffersonLab/CJ-database/assets/20442471/e7335f02-67c9-438d-8f70-15d6347da621" width="500" height="400">
-<img src="https://github.com/JeffersonLab/CJ-database/assets/20442471/06c9a30a-07e5-427d-b347-626898fd8252" width="500" height="400">
-
-
-
-Note: GitHub does not provide a preview of xlsx files.  Please click the link below, and then the __View raw__ button to download.
-* [extracted F2 n](data/dataframe/rebin_n.xlsx)
-* [extracted F2 n/p](data/dataframe/f2np_all.xlsx)
-
-The neutron extraction necessitated of a careful cross-normalization and kinematic match of the world proton and Deuterron structure functions. Here we provide Excel tables with the cross-normalized F2p and F2d structure functions, both in the original experimental kinematics, and rebinned in Q^2. 
-
-* [combined F2 p](data/dataframe/rebin_p.xlsx)
-* [combined F2 d](data/dataframe/rebin_d.xlsx)
-
-
+See also
+* [note][note] for reduced cross section and F2 calculation.
+* CTEQ-JLab collaboration [website](https://www.jlab.org/theory/cj/).
 
 
 ## World DIS data tables
+World __proton__ and __deuteron__ data of unploarized DIS cross sections, F2 structure functions, and the longitudinal to transverse cross section ratio R are collected or extracted from various experiments. Data were collected for the CJ global fit and related analysis. Now open for general use. See details under the __data__ directory.
 
-World DIS data for proton and deuteron F2 structure functions, in separate files for each experiment:
-* Filenames and dataset ID (100xx) in the database are listed on the table below. Click on the names for details. 
-* Each set is provided in both plain text (deprecated) and xlsx/csv format (under data/dataframe). 
-* The data format is explained on the [wikipage](https://github.com/JeffersonLab/CJ-database/wiki).
 
-**Notes**
-* All data are __per-nucleon__.
-* __(\*)__ = The actual measurement was d/p cross section ratios. F2 d/p was extracted by the experiment under the assumption Rp=Rd.
-* __(A)__ = The data is available but not yet collected
+## Neutron F2 extraction
+Based on the collected F2 data, we performed a data-driven extraction of __neutron F2__ and __neutron-to-proton F2n/F2p ratio__ within the CJ15 framework (see eq. 7-9 in reference for details). Data from all experiemnts are cross-normalized and combined into a single Excel file, both in the original kineamtics, as well as rebinned in Q^2. Check the __f2n__ directory.
 
-|Experiment                 | &sigma;<sub>r</sub>        |  F2                       |   R                    |
-| :--:                      | :--:                       | :--:                      | :--:                   | 
-|SLAC-Whitlow               | p:  [10014][slac_sp]       | p: [10010][slac_p]        | p: [10064][slac_rp]    |
-|                           | d:  [10015][slac_sd]       | d: [10011][slac_d]        | d: [10065][slac_rp]    |
-|                           | d/p: [10034][slac_dp]      | d/p __(\*)__: [10034][slac_dp] |                   |
-|SLAC-Whitlow(rebinned)     |                            | rebinned p: [10012][slac_p_rebin] |                |
-|                           |                            | rebinned d: [10013][slac_d_rebin] |                |
-|SLAC-E140                  |                            |                           | d: [10066][e140_r]     |    
-|SLAC-E140x                 | p: [10037][e140x_sp]       | p: [10035][e140x_p]       | p: [10067][e140x_rp]   |
-|                           | d: [10038][e140x_sd]       | d: [10036][e140x_d]       | d: [10068][e140x_rd]   |
-|NMC                        | p: [10022][nmc_sp]         | p: [10020][nmc_p]         |                        |
-|                           | d: [10040][nmc_sd]         | d: [10039][nmc_d]         |                        |
-|                           | d/p:[10021][nmc_dp]        | d/p __(\*)__:[10021][nmc_dp] |                     |
-|BCDMS                      | p: [10018][bcdms_sp]       | p: [10016][bcdms_p]       | p: [10069][bcdms_rp]   |
-|                           | d: [10019][bcdms_sd]       | d: [10017][bcdms_d]       | d: [10070][bcdms_rd]   |
-|JLab E06-009               | d: [10042][e06009_sd]      | d: [10041][e06009_d]      | d: [10071][e06009_d]   |
-|(includes E04-001, E02-109)|                            |                           |                        |
-|JLab E94-110               | p: [10044][e94110_sp]      | p: [10043][e94110_p]      | p: [10074][e94110_rp]  |
-|[JLab E03-103][e03103]     | p:10047                    | p:10045                   |                        |
-|                           | d:10048                    | d:10046                   |                        |
-|JLab E99-118               | p:[10052][e99118_sp]       | p:[10049][e99118_p]       | p:   __(A)__           |
-|                           | d:[10053][e99118_sd]       | d:[10050][e99118_d]       | p-d: __(A)__           |
-|                           | d/p:[10054][e99118_sdp]    | d/p:[10051][e99118_dp]    |                        |
-|JLab JLCEE96               | p: [10055][ioana_sp]       | p: [10072][ioana_p]       |                        |
-|                           | d: [10056][ioana_sd]       | d: [10073][ioana_d]       |                        |
-|[JLab E00-116][e00116]     | p: 10003                   | p:  10001                 |                        |
-|                           | d: 10004                   | p:  10002                 |                        |
-|CLAS6                      | p: [10059][clas_sp]        | p: [10057][clas_p]        |                        |
-|                           | d: [10060][clas_sd]        | d: [10058][clas_d]        |                        |
-|BONUS                      |                            | n: [10061][bonus_n]       |                        |
-|                           |                            | n/d: [10033][bonus_nd]    |                        |
-|HERA I+II                  | p: [10026 - 10032][hera]   |                           |                        |
-|[HERMES][hermes]           | p: 10007                   | p: 10005                  |                        |
-|                           | d: 10008                   | d: 10006                  |                        |
-|                           | d/p: 10009                 |                           |                        |
-|E665                       |                            | p: [10062][e665_p]        |                        |
-|                           |                            | d: [10063][e665_d]        |                        |
+## CJ structure function grids
 
-[note]:src/cj-notes.pdf
-[slac_sp]:comments/slac_sp.md
-[slac_sd]:comments/slac_sp.md
-[slac_p]:comments/slac_p.md
-[slac_d]:comments/slac_p.md
-[slac_p_rebin]:comments/slac_rebinned.md
-[slac_d_rebin]:comments/slac_rebinned.md
-[slac_dp]:comments/slac_dp.md
-[slac_rp]:comments/slac_rp.md
-[slac_rd]:comments/slac_rp.md
-[e140_r]:comments/e140_r.md
-[e140x_sp]:comments/e140x_sp.md
-[e140x_sd]:comments/e140x_sp.md
-[e140x_p]:comments/e140x_p.md
-[e140x_d]:comments/e140x_p.md
-[e140x_rp]:comments/e140x_r.md
-[e140x_rd]:comments/e140x_r.md
-[nmc_sp]:comments/nmc_sp.md
-[nmc_sd]:comments/nmc_sp.md
-[nmc_p]:comments/nmc_p.md
-[nmc_d]:comments/nmc_p.md
-[nmc_rp]:comments/nmc_rp.md
-[nmc_rd]:comments/nmc_rp.md
-[nmc_dp]:comments/nmc_dp.md
-[e06009]:comments/e06009_sd.md
-[e06009_d]:comments/e06009_d.md
-[e06009_sd]:comments/e06009_sd.md
-[e03103]:comments/e03103.md
-[e02109]:comments/e02109.md
-[e94110_sp]:comments/e94110_sp.md
-[e94110_p]:comments/e94110_p.md
-[e94110_rp]:comments/e94110_rp.md
-[ioana_sp]:comments/ioana_sd.md
-[ioana_sd]:comments/ioana_sd.md
-[ioana_p]:comments/ioana_d.md
-[ioana_d]:comments/ioana_d.md
-[e99118_p]:comments/e99118_p.md
-[e99118_d]:comments/e99118_p.md
-[e99118_dp]:comments/e99118_p.md
-[e99118_sp]:comments/e99118_sp.md
-[e99118_sd]:comments/e99118_sp.md
-[e99118_sdp]:comments/e99118_sdp.md
-[bonus_n]:comments/bonus_n.md
-[slac101_d]:comments/slac101_d.md
-[e00116]:comments/e00116.md
-[hermes]:comments/HERMES_DIS.md
-[hera]:comments/HERA2.md
-[bcdms_p]:comments/bcdms_p.md
-[bcdms_d]:comments/bcdms_p.md
-[bcdms_sp]:comments/bcdms_p.md
-[bcdms_sd]:comments/bcdms_p.md
-[bcdms_rp]:comments/bcdms_r.md
-[bcdms_rd]:comments/bcdms_r.md
-[clas_p]:comments/clas_p.md
-[clas_d]:comments/clas_p.md
-[clas_sp]:comments/clas_p.md
-[clas_sd]:comments/clas_d.md
-[e665_p]: comments/e665_p.md
-[e665_d]: comments/e665_p.md
-[bonus_nd]: comments/bonus_nd.md
 
 ** This database is maintained by Alberto Accardi (accardi at jlab org) and Shujie Li (shujieli at lbl gov). Please help us improve (e.g. request a bug fix or adding new data) by sumitting a github issue.

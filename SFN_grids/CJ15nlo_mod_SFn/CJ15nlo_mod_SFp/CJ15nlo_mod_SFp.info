@@ -1,0 +1,33 @@
+SetDesc: 'CJ15_mod DIS structure functions with HT and TMC. The 48 error grids are calculated with Delta\chi=1.646; if experimental errors were Gaussian and all experiments compatible, this would correspondto a 90% confidence level. See Eq.(11) in S. Li et al. [arXiv:2309.16851] for error estimations. Indexes:F2 g(900), F2 gZ(902), F2 Z(905), F2 NC(908)' 
+SetIndex: 12600
+Authors: S. Li, A. Accardi, I. P. Fernando, C. E. Keppel, W. Melnitchouk, P. Monaghan, G. Niculescu, M. I. Niculescu, J. F. Owens.
+Reference: arXiv:2309.16851
+Format: lhagrid1
+DataVersion:  1
+NumMembers:  49
+Particle:         2212
+Flavors: [ 900, 902, 905, 908]
+OrderQCD: 1
+ForcePositive: 1
+FlavorScheme: variable
+NumFlavors:   5
+ErrorType: hessian
+ErrorConfLevel: 90.0
+XMin:     1.00E-06
+XMax:     1.00E+00
+QMin:     1.30E+00
+QMax:     1.00E+05
+MZ:    91.1876
+MUp: 0.0
+MDown: 0.0
+MStrange: 0.0
+MCharm: 1.3
+MBottom: 4.5
+MTop: 180.0
+AlphaS_MZ: 0.118044
+AlphaS_OrderQCD:  1
+AlphaS_Type: ipol
+AlphaS_Qs: [1.300000E+00, 1.501590E+00, 1.755160E+00, 2.078100E+00, 2.494950E+00, 3.040860E+00, 3.767150E+00, 4.500000E+00, 4.750000E+00, 6.231130E+00, 8.374230E+00, 1.155490E+01, 1.640760E+01, 2.403800E+01, 3.643610E+01, 5.731450E+01, 9.387070E+01, 1.606540E+02, 2.884380E+02, 5.455870E+02, 1.092310E+03, 2.326460E+03, 5.300430E+03, 1.299560E+04, 3.451400E+04, 1.000000E+05]
+AlphaS_Vals: [3.845290E-01, 3.522282E-01, 3.234495E-01, 2.976379E-01, 2.743543E-01, 2.532484E-01, 2.340345E-01, 2.203169E-01, 2.168209E-01, 2.009169E-01, 1.861830E-01, 1.725192E-01, 1.598388E-01, 1.480644E-01, 1.371281E-01, 1.269683E-01, 1.175297E-01, 1.087617E-01, 1.006178E-01, 9.305547E-02, 8.603505E-02, 7.951984E-02, 7.347555E-02, 6.787030E-02, 6.267415E-02, 5.785919E-02]
+AlphaS_Lambda4: 0.385
+AlphaS_Lambda5: 0.220
