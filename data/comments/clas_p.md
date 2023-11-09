@@ -13,10 +13,10 @@ Emails from Mikhail Osipenko.
 
 
 ## Data files: 
-  * F2      proton   : [xlsx](../data/dataframe/10057.xlsx), [csv](../data/dataframe/csv/10057.csv)   
-  * F2      deuteron : [xlsx](../data/dataframe/10058.xlsx), [csv](../data/dataframe/csv/10058.csv)   
-  * sig_r   proton   : [xlsx](../data/dataframe/10059.xlsx), [csv](../data/dataframe/csv/10059.csv)   
-  * sig_r   deuteron : [xlsx](../data/dataframe/10060.xlsx), [csv](../data/dataframe/csv/10060.csv)   
+  * F2      proton   : [xlsx](../dataframe/10057.xlsx), [csv](../dataframe/csv/10057.csv)   
+  * F2      deuteron : [xlsx](../dataframe/10058.xlsx), [csv](../dataframe/csv/10058.csv)   
+  * sig_r   proton   : [xlsx](../dataframe/10059.xlsx), [csv](../dataframe/csv/10059.csv)   
+  * sig_r   deuteron : [xlsx](../dataframe/10060.xlsx), [csv](../dataframe/csv/10060.csv)   
 
 
 ## Uncertainties:

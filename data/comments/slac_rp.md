@@ -1,8 +1,8 @@
 # SLAC R proton and deuteron (reanalyzed)
 
 ## Data files: 
-  * R=L/T   proton     : [xlsx](../data/dataframe/10064.xlsx), [csv](../data/dataframe/csv/10064.csv)   
-  * R=L/T   deuteron   : [xlsx](../data/dataframe/10065.xlsx), [csv](../data/dataframe/csv/10065.csv)   
+  * R=L/T   proton     : [xlsx](../dataframe/10064.xlsx), [csv](../dataframe/csv/10064.csv)   
+  * R=L/T   deuteron   : [xlsx](../dataframe/10065.xlsx), [csv](../dataframe/csv/10065.csv)   
 
 ## Reference: 
 L.W.Whitlow, SLAC-Report-357, Ph.D. Thesis, Stanford University,March 1990. 

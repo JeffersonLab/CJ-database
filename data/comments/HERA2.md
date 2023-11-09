@@ -1,13 +1,13 @@
 # HERA I+II combined reduced DIS cross section
 
 ## Data files: 
-  * HERA II NC e+ (1): [xlsx](../data/dataframe/10026.xlsx), [csv](../data/dataframe/csv/10026.csv)
-  * HERA II NC e+ (2): [xlsx](../data/dataframe/10027.xlsx), [csv](../data/dataframe/csv/10027.csv)
-  * HERA II NC e+ (3): [xlsx](../data/dataframe/10028.xlsx), [csv](../data/dataframe/csv/10028.csv)
-  * HERA II NC e+ (4): [xlsx](../data/dataframe/10029.xlsx), [csv](../data/dataframe/csv/10029.csv)
-  * HERA II NC e-    : [xlsx](../data/dataframe/10030.xlsx), [csv](../data/dataframe/csv/10030.csv)     
-  * HERA II CC e+    : [xlsx](../data/dataframe/10031.xlsx), [csv](../data/dataframe/csv/10031.csv)     
-  * HERA II CC e-    : [xlsx](../data/dataframe/10032.xlsx), [csv](../data/dataframe/csv/10032.csv)   
+  * HERA II NC e+ (1): [xlsx](../dataframe/10026.xlsx), [csv](../dataframe/csv/10026.csv)
+  * HERA II NC e+ (2): [xlsx](../dataframe/10027.xlsx), [csv](../dataframe/csv/10027.csv)
+  * HERA II NC e+ (3): [xlsx](../dataframe/10028.xlsx), [csv](../dataframe/csv/10028.csv)
+  * HERA II NC e+ (4): [xlsx](../dataframe/10029.xlsx), [csv](../dataframe/csv/10029.csv)
+  * HERA II NC e-    : [xlsx](../dataframe/10030.xlsx), [csv](../dataframe/csv/10030.csv)     
+  * HERA II CC e+    : [xlsx](../dataframe/10031.xlsx), [csv](../dataframe/csv/10031.csv)     
+  * HERA II CC e-    : [xlsx](../dataframe/10032.xlsx), [csv](../dataframe/csv/10032.csv)   
 
 ## Log:
   * @aaccardi (18 Dec 2017) -- Initial entry from CJ database source

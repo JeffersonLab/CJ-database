@@ -3,8 +3,8 @@
 * 4cm target (x=0.1) and 15cm target(x=0.35,0.50)
 
 ## Data files: 
-  * sig_r    proton   : [xlsx](../data/dataframe/10037.xlsx), [csv](../data/dataframe/csv/10037.csv)  
-  * sig_r    deuteron : [xlsx](../data/dataframe/10038.xlsx), [csv](../data/dataframe/csv/10038.csv)  
+  * sig_r    proton   : [xlsx](../dataframe/10037.xlsx), [csv](../dataframe/csv/10037.csv)  
+  * sig_r    deuteron : [xlsx](../dataframe/10038.xlsx), [csv](../dataframe/csv/10038.csv)  
 
 ## Reference:
 L. Tao, Ph.D. Thesis, The American University, 1994

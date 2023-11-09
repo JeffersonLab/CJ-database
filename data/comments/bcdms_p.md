@@ -1,10 +1,10 @@
 # BCDMS proton and deuteron F2 structure functions and reduced cross section
 
 ## Data files: 
-  * F2       proton   : [xlsx](../data/dataframe/10016.xlsx), [csv](../data/dataframe/csv/10016.csv)   
-  * F2       deuteron : [xlsx](../data/dataframe/10017.xlsx), [csv](../data/dataframe/csv/10017.csv)   
-  * sig_r    proton   : [xlsx](../data/dataframe/10018.xlsx), [csv](../data/dataframe/csv/10018.csv)   
-  * sig_r    deuteron : [xlsx](../data/dataframe/10019.xlsx), [csv](../data/dataframe/csv/10019.csv)  
+  * F2       proton   : [xlsx](../dataframe/10016.xlsx), [csv](../dataframe/csv/10016.csv)   
+  * F2       deuteron : [xlsx](../dataframe/10017.xlsx), [csv](../dataframe/csv/10017.csv)   
+  * sig_r    proton   : [xlsx](../dataframe/10018.xlsx), [csv](../dataframe/csv/10018.csv)   
+  * sig_r    deuteron : [xlsx](../dataframe/10019.xlsx), [csv](../dataframe/csv/10019.csv)  
 
 ## Sources:
   * data converted from CJ database

@@ -1,8 +1,8 @@
 # Jlab JLCEE96 Experiment Proton and Deuteron(per-nucleon) Reduced Cross Section.
 
 * Data files: 
-  * sig_r    proton   : [xlsx](../data/dataframe/10055.xlsx), [csv](../data/dataframe/csv/10055.csv)   
-  * sig_r    deuteron : [xlsx](../data/dataframe/10056.xlsx), [csv](../data/dataframe/csv/10056.csv)   
+  * sig_r    proton   : [xlsx](../dataframe/10055.xlsx), [csv](../dataframe/csv/10055.csv)   
+  * sig_r    deuteron : [xlsx](../dataframe/10056.xlsx), [csv](../dataframe/csv/10056.csv)   
 
 ## Reference: 
 

@@ -2,7 +2,7 @@
 
 ## Data files: 
 
-*F2 n/D:[xlsx](../data/dataframe/10033.xlsx), [csv](../data/dataframe/csv/10033.csv)
+*F2 n/D:[xlsx](../dataframe/10033.xlsx), [csv](../dataframe/csv/10033.csv)
 
 
 ## Source:

@@ -3,15 +3,16 @@
 
 __Reference__: [arXiv:2309.16851](https://arxiv.org/abs/2309.16851). 
 
-World DIS data for proton and deuteron F2 structure functions are provided in both xlsx/csv format (under ```dataframe```) as well as a plain text format (```text```,deprecated).
+World DIS data for proton and deuteron F2 structure functions are provided in both xlsx/csv format ( in folder [dataframe](./dataframe)) as well as a plain [text](./text) format (deprecated).
 * A five digit database ID (```100xx```) is assigned to each experiment dataset as shown in the table below. 
-* Detailed explanation of data source and variables are stored under the ```comment``` folder. Please click the database ID in the table below for quick navigation.
+* Detailed explanation of data source and variables are stored under the [comments](./comments) folder. Please click the database ID in the table below for quick navigation.
 * The data format is explained on the [wikipage](https://github.com/JeffersonLab/CJ-database/wiki).
 
 **Notes**
 * All data are __per-nucleon__.
 * __(\*)__ = The actual measurement was d/p cross section ratios. F2 d/p was extracted by the experiment under the assumption Rp=Rd.
 * __(A)__ = The data is available but not yet collected
+* Extraction of reduced cross section and F2 is discussed in the [note][note] 
 
 |Experiment                 | &sigma;<sub>r</sub>        |  F2                       |   R                    |
 | :--:                      | :--:                       | :--:                      | :--:                   | 
