@@ -1,11 +1,19 @@
 # CJ Unpolarized DIS Database Homepage
 
-__Reference__: [arXiv:2309.16851](https://arxiv.org/abs/2309.16851). 
+### References: 
+_"Extraction of the neutron F2 structure function from inclusive proton and deuteron deep-inelastic scattering data"_,  Shujie Li, Alberto Accardi, Ishara. P. Fernando, Cynthia E. Keppel, Wally Melnitchouk, Peter Monaghan, Gabriel Niculescu, Maria I. Niculescu, Jeff. F. Owens
+[arXiv:2309.16851](https://arxiv.org/abs/2309.16851). 
 
 See also
 * CTEQ-JLab collaboration [website](https://www.jlab.org/theory/cj/).
 * [note](src/cj-notes.pdf) for reduced cross section and F2 calculation.
 
+### Contact us: 
+
+This database is maintained by Alberto Accardi (accardi at jlab org) and Shujie Li (shujieli at lbl gov). Feedbacks are welcome. 
+Please contact us for bug fix, or adding new data sets.
+
+_New collaborators are always welcome!!_
 
 ## World DIS data tables
 World __proton__ and __deuteron__ data of unploarized DIS cross sections, F2 structure functions, and the longitudinal to transverse cross section ratio R are collected or extracted from various experiments. Data were collected for the CJ global fit and related analysis. Now open for general use. See details under the [data](./data) directory.
@@ -17,9 +25,3 @@ Based on the collected F2 data, we performed a data-driven extraction of __neutr
 ## Structure function grids
 Within CJ framework, we calculated various structure functions (F2, F3, FL, etc) at given x, Q^2 grids. Results are provided under folder [SFN_grids](./SFN_grids) in the [LHAPDF](https://lhapdf.hepforge.org) format. An example plotting script is available at ```src/plot_sfn.py```
 
-
-## Contact us!
-
-This database is maintained by Alberto Accardi (accardi at jlab org) and Shujie Li (shujieli at lbl gov). Please help us improve it (e.g. requesting a bug fix or to add new data, or sending us a suggestion) by sumitting a github issue. 
-
-New collaborators are also welcome!!
