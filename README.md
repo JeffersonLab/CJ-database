@@ -18,7 +18,7 @@ Based on the collected F2 data, we performed a data-driven extraction of __neutr
 Within CJ framework, we calculated various structure functions (F2, F3, FL, etc) at given x, Q^2 grids. Results are provided under folder [SFN_grids](./SFN_grids) in the [LHAPDF](https://lhapdf.hepforge.org) format. An example plotting script is available at ```src/plot_sfn.py```
 
 
-### Contact us!
+## Contact us!
 
 This database is maintained by Alberto Accardi (accardi at jlab org) and Shujie Li (shujieli at lbl gov). Please help us improve it (e.g. requesting a bug fix or to add new data, or sending us a suggestion) by sumitting a github issue. 
 
