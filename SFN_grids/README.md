@@ -34,7 +34,8 @@ We provide pre-calculated structure function values at given x, Q^2 grids in the
 
 ## Available grids:
 
-__CJ15nlo_mod_SFn__: within the [CJ15 framework](https://inspirehep.net/literature/1420566), structure functions are calculated with modified uncertainties (eigendirections increased from 19 to 24).  
+__CJ15nlo_mod_SFn__: within the [CJ15 framework](https://inspirehep.net/literature/1420566), structure functions are calculated with rescaled uncertainties in each eigendirection to compensate for deviation from Gaussian behavior. Error sets provide a $\Delta\chi^2=1.646$ increase realtive to the central sets $\chi^2$, corresponding to a nominal 90% confidence level.
+  
 * Reference: appendix B in [arXiv:2309.16851](https://arxiv.org/abs/2309.16851)
 * 49 sets in total. Set 0000 is the central value, 1-48 are error sets.
 * Only F2 are available with higher twist. Others are all leading twist (LT)
