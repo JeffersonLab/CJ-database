@@ -122,7 +122,7 @@ def calc_sfn_np(x,Q2,tabp = "CJ15nlo_mod_SFp", tabn = "CJ15nlo_mod_SFn", iset=90
 
 if __name__ == "__main__":
 
-    path_to_grids ="" #"../LHAPDF_grids/CJ15nlo_mod_SFn/"
+    path_to_grids ="../SFN_grids/CJ15nlo_mod_SFn/"
     if len(path_to_grids)<1:
         print("!!!\nWARNING: please make sure the dataset path are included in $LHAPDF_PATH, or add the path in the code\n!!!")
     lhapdf.pathsPrepend(path_to_grids)
