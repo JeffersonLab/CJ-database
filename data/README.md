@@ -52,6 +52,7 @@ World DIS data for proton and deuteron F2 structure functions are provided in bo
 |E665                       |                            | p: [10062][e665_p]        |                        |
 |                           |                            | d: [10063][e665_d]        |                        |
 
+
 [note]:../src/cj-notes.pdf
 [slac_sp]:comments/slac_sp.md
 [slac_sd]:comments/slac_sp.md
@@ -112,3 +113,42 @@ World DIS data for proton and deuteron F2 structure functions are provided in bo
 [e665_p]: comments/e665_p.md
 [e665_d]: comments/e665_p.md
 [bonus_nd]: comments/bonus_nd.md
+
+**Data from JAM**
+|Experiment                 | &sigma;<sub>r</sub>        |  F2                       |   R                    |
+| :--:                      | :--:                       | :--:                      | :--:                   | 
+|HERA I + II (charm)        | p:  10037                  |                           |                        |
+|                           | p:  10038                  |                           |                        |
+|JLab Hall C E03-103        | h/d: [10041][e03103_shd]   |                           |                        |
+|JLab Hall C E12-10-002     |                            | d/p: [10042][e1210002_dp] |                        |
+|MARATHON                   |                            | d/p: [10050][marathon_dp] |                        |
+|                           |                            | h/t: [10051][marathon_ht] |                        |
+|                           |                            | h/d: [10052][marathon_hd] |                        |
+|                           |                            | t/d: [10053][marathon_td] |                        |
+
+[e03103_shd]:  comments/e03103_shd.md
+[e1210002_dp]: comments/e1210002_dp.md
+[marathon_dp]: comments/marathon_dp.md
+[marathon_ht]: comments/marathon_dp.md
+[marathon_hd]: comments/marathon_hd.md
+[marathon_td]: comments/marathon_hd.md
+
+
+**Data from JAM (PVDIS)**
+|Experiment                 | APV                        |
+| :--:                      | :--:                       |             
+|SLAC PVDIS                 | p: [10054][slacpvdis_p]    | 
+|SLAC PVDIS                 | d: [10055][slacpvdis_d]    | 
+|JLab PVDIS                 | d: [10056][jlabpvdis_d]    | 
+
+[slacpvdis_p]: comments/slacpvdis_p.md
+[]: comments/.md
+[]: comments/.md
+
+
+
+
+
+
+
+
