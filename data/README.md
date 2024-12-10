@@ -142,8 +142,8 @@ World DIS data for proton and deuteron F2 structure functions are provided in bo
 |JLab PVDIS                 | d: [10056][jlabpvdis_d]    | 
 
 [slacpvdis_p]: comments/slacpvdis_p.md
-[]: comments/.md
-[]: comments/.md
+[slacpvdis_d]: comments/slacpvdis_p.md
+[jlabpvdis_d]: comments/jlabpvdis_d.md
 
 
 
