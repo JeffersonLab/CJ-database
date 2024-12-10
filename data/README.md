@@ -22,23 +22,23 @@ World DIS data for proton and deuteron F2 structure functions are provided in bo
 |SLAC-Whitlow(rebinned)     |                            | rebinned p: [10012][slac_p_rebin] |                |
 |                           |                            | rebinned d: [10013][slac_d_rebin] |                |
 |SLAC-E140                  |                            |                           | d: [10066][e140_r]     |    
-|SLAC-E140x                 | p: [10037][e140x_sp]       | p: [10035][e140x_p]       | p: [10067][e140x_rp]   |
-|                           | d: [10038][e140x_sd]       | d: [10036][e140x_d]       | d: [10068][e140x_rd]   |
+|SLAC-E140x                 | p: [10075][e140x_sp]       | p: [10035][e140x_p]       | p: [10067][e140x_rp]   |
+|                           | d: [10076][e140x_sd]       | d: [10036][e140x_d]       | d: [10068][e140x_rd]   |
 |NMC                        | p: [10022][nmc_sp]         | p: [10020][nmc_p]         |                        |
 |                           | d: [10040][nmc_sd]         | d: [10039][nmc_d]         |                        |
 |                           | d/p:[10021][nmc_dp]        | d/p __(\*)__:[10021][nmc_dp] |                     |
 |BCDMS                      | p: [10018][bcdms_sp]       | p: [10016][bcdms_p]       | p: [10069][bcdms_rp]   |
 |                           | d: [10019][bcdms_sd]       | d: [10017][bcdms_d]       | d: [10070][bcdms_rd]   |
-|JLab E06-009               | d: [10042][e06009_sd]      | d: [10041][e06009_d]      | d: [10071][e06009_d]   |
+|JLab E06-009               | d: [10078][e06009_sd]      | d: [10077][e06009_d]      | d: [10071][e06009_d]   |
 |(includes E04-001, E02-109)|                            |                           |                        |
 |JLab E94-110               | p: [10044][e94110_sp]      | p: [10043][e94110_p]      | p: [10074][e94110_rp]  |
 |[JLab E03-103][e03103]     | p:10047                    | p:10045                   |                        |
 |                           | d:10048                    | d:10046                   |                        |
-|JLab E99-118               | p:[10052][e99118_sp]       | p:[10049][e99118_p]       | p:   __(A)__           |
-|                           | d:[10053][e99118_sd]       | d:[10050][e99118_d]       | p-d: __(A)__           |
-|                           | d/p:[10054][e99118_sdp]    | d/p:[10051][e99118_dp]    |                        |
-|JLab JLCEE96               | p: [10055][ioana_sp]       | p: [10072][ioana_p]       |                        |
-|                           | d: [10056][ioana_sd]       | d: [10073][ioana_d]       |                        |
+|JLab E99-118               | p:[10081][e99118_sp]       | p:[10049][e99118_p]       | p:   __(A)__           |
+|                           | d:[10082][e99118_sd]       | d:[10079][e99118_d]       | p-d: __(A)__           |
+|                           | d/p:[10083][e99118_sdp]    | d/p:[10080][e99118_dp]    |                        |
+|JLab JLCEE96               | p: [10084][ioana_sp]       | p: [10072][ioana_p]       |                        |
+|                           | d: [10085][ioana_sd]       | d: [10073][ioana_d]       |                        |
 |[JLab E00-116][e00116]     | p: 10003                   | p:  10001                 |                        |
 |                           | d: 10004                   | p:  10002                 |                        |
 |CLAS6                      | p: [10059][clas_sp]        | p: [10057][clas_p]        |                        |
