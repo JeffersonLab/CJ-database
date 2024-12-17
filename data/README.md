@@ -26,7 +26,7 @@ World DIS data for proton and deuteron F2 structure functions are provided in bo
 |                           | d: [10076][e140x_sd]       | d: [10036][e140x_d]       | d: [10068][e140x_rd]   |
 |NMC                        | p: [10022][nmc_sp]         | p: [10020][nmc_p]         |                        |
 |                           | d: [10040][nmc_sd]         | d: [10039][nmc_d]         |                        |
-|                           | d/p:[10021][nmc_dp]        | d/p __(\*)__:[10021][nmc_dp] |                     |
+|                           | d/p:[10086][nmc_dp]        | d/p __(\*)__:[10021][nmc_dp] |                     |
 |BCDMS                      | p: [10018][bcdms_sp]       | p: [10016][bcdms_p]       | p: [10069][bcdms_rp]   |
 |                           | d: [10019][bcdms_sd]       | d: [10017][bcdms_d]       | d: [10070][bcdms_rd]   |
 |JLab E06-009               | d: [10078][e06009_sd]      | d: [10077][e06009_d]      | d: [10071][e06009_d]   |
@@ -118,7 +118,7 @@ World DIS data for proton and deuteron F2 structure functions are provided in bo
 |Experiment                 | &sigma;<sub>r</sub>        |  F2                       |   R                    |
 | :--:                      | :--:                       | :--:                      | :--:                   | 
 |HERA I + II (charm)        | p:  10037                  |                           |                        |
-|                           | p:  10038                  |                           |                        |
+|HERA I + II (bottom)       | p:  10038                  |                           |                        |
 |JLab Hall C E03-103        | h/d: [10041][e03103_shd]   |                           |                        |
 |JLab Hall C E12-10-002     |                            | d/p: [10042][e1210002_dp] |                        |
 |MARATHON                   |                            | d/p: [10050][marathon_dp] |                        |
