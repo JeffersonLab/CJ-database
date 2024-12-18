@@ -40,7 +40,7 @@ World DIS data for proton and deuteron F2 structure functions are provided in bo
 |JLab JLCEE96               | p: [10084][ioana_sp]       | p: [10072][ioana_p]       |                        |
 |                           | d: [10085][ioana_sd]       | d: [10073][ioana_d]       |                        |
 |[JLab E00-116][e00116]     | p: 10003                   | p:  10001                 |                        |
-|                           | d: 10004                   | p:  10002                 |                        |
+|                           | d: 10004                   | d:  10002                 |                        |
 |CLAS6                      | p: [10059][clas_sp]        | p: [10057][clas_p]        |                        |
 |                           | d: [10060][clas_sd]        | d: [10058][clas_d]        |                        |
 |BONUS                      |                            | n: [10061][bonus_n]       |                        |
