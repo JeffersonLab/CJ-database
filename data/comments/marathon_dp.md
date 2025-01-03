@@ -11,7 +11,7 @@
 
 ## Sources:
 
-Email from Tyler Hague
+Norms come from email from Tyler Hague
 
 ## Notes:
 Values and uncertainties scaled to be per nucleon
