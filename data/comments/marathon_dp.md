@@ -11,4 +11,11 @@
 
 ## Sources:
 
+Email from Tyler Hague
 
+## Notes:
+Values and uncertainties scaled to be per nucleon
+In the reference, normalizations were applied to the data.  These have been removed.
+
+## Uncertainties
+__norm__: 0.8% for d/p and 1.2% for h/t
