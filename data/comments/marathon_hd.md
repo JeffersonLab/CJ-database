@@ -11,4 +11,8 @@
 
 ## Sources:
 
+Email from Tyler Hague
+
+## Uncertainties:
+__norm__: 0.8% for t/d, 1.2% for h/d
 
