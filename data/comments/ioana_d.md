@@ -8,8 +8,9 @@
 
 Maria Ioana Niculescu's thesis: https://misportal.jlab.org/ul/publications/view_pub.cfm?pub_id=5397
 
-## Source files: 
+__Note from the author__: These F2 sets are extracted from the published cross-section and binned in Q² using some unpublished models. It is recommended that users work directly with the cross-section table and extract their own F2 values if needed.
 
+## Source files: 
 h2_ioana_98_f2.txt and d2_ioana_98_f2.txt from Ioana Niculescu (private communication).
 
 ## Uncertainty:
