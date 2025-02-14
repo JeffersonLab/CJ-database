@@ -31,6 +31,23 @@
 ## Other added datasets
 * 10086: NMC d/p sigma
 
+## Changes to cross section data
+* 10014: lepton beam e changed to e_minus
+* 10015: lepton beam e changed to e_minus
+* 10018: lepton beam mu changed to mu_minus
+* 10019: lepton beam mu changed to mu_minus
+* 10022: lepton beam mu changed to mu_minus
+* 10047: lepton beam e changed to e_minus
+* 10048: lepton beam e changed to e_minus
+* 10059: lepton beam e changed to e_minus
+* 10060: lepton beam e changed to e_minus
+* 10075: was never formatted, now has been formatted
+* 10076: was never formatted, now has been formatted
+* 10078: added missing obs (sig_r), target (d), current (NC), and lepton_beam (e_minus) columns 
+* 10084: added missing col (JLab JLCEE96), obs (sig_r), target (p), current (NC), lepton beam (e_minus), and norm_c (1.26, taken from F2).  Changed \*sig_r column name to value 
+* 10085: added missing col (JLab JLCEE96), obs (sig_r), target (d), current (NC), lepton beam (e_minus), and norm_c (1.26, taken from F2).  Changed \*sig_r column name to value 
+
+
 ## Other changes
 * 10003: \*norm column changed to \*norm_c
 * 10021: Observable changed from sig to F2
