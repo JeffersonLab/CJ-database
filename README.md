@@ -1,4 +1,4 @@
-# CJ Unpolarized DIS Database Homepage
+# CJ-JAM Unpolarized DIS Database Homepage
 
 ### References: 
 _"Extraction of the neutron F2 structure function from inclusive proton and deuteron deep-inelastic scattering data"_,  Shujie Li, Alberto Accardi, Ishara. P. Fernando, Cynthia E. Keppel, Wally Melnitchouk, Peter Monaghan, Gabriel Niculescu, Maria I. Niculescu, Jeff. F. Owens
@@ -10,7 +10,7 @@ See also
 
 ### Contact us: 
 
-This database is maintained by Alberto Accardi (accardi at jlab org) and Shujie Li (shujieli at lbl gov). Feedbacks are welcome. 
+This database is maintained by Alberto Accardi (accardi at jlab org) and Shujie Li (shujieli at lbl gov). Feedback is welcome. 
 Please contact us for bug fix, or adding new data sets.
 
 _New collaborators are always welcome!!_
